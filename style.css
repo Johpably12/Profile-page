@@ -1,0 +1,36 @@
+/* colors and fonts */
+
+body  { 
+   background: #B7B7B7;
+   color: ECCDB4;
+   font-family: 'Roboto';
+   font-size: 19px;
+
+ }
+
+ h1, h2, h3  { 
+   color: white;
+   font-family: sans-serif;
+  
+
+ }
+
+ h1  { 
+   color: white;
+   font-family: courier;
+   font-size: 30px;
+   font-weight: revert-layer;
+
+ }
+
+ a  { 
+   text-decoration: none;
+  color: gold;
+  
+
+ }
+
+  a:hove { 
+  color: brown;
+
+  }
